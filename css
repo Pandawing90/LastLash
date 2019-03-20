@@ -1,0 +1,23 @@
+<style>
+body {
+  background-color: lavender;
+}
+
+h1 {
+  color: pink;
+  margin-left: 40px;
+} 
+
+
+img.resize {
+  width:200px;
+  height:40px;
+}
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#first .smashinglogo {background: url(../images/logo1.png)  50% 100px no-repeat fixed;}
+
+</style>
